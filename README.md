@@ -60,7 +60,7 @@ Daher ist es wichtig, vorher abzuwägen, welcher Benutzer die Administratorrecht
 
 Da Ihre bisherigen Benutzer und Gruppen nicht migriert werden, müssen Sie diese neu anlegen. Dafür gibt es drei Möglichkeiten:
 
-**Benutzer selbst anlegen:**
+**1.)Benutzer selbst anlegen:**
 *Vorgehensweise:*
 Im Core1 Hauptmenü (links) auf Einstellungen klicken.
 Benutzer und Gruppen auswählen
@@ -68,11 +68,11 @@ Nun können Sie zwischen Benutzerverwaltung und Gruppenverwaltung wählen, um do
 
 ![Benutzerkonten](/assets/Benutzerkonten.png)
 
-**1.)	Hauptnutzer durch Actindo anlegen lassen:**
+**2.)	Hauptnutzer durch Actindo anlegen lassen:**
 *Vorgehensweise:*
 Dafür senden Sie uns den von Ihnen bestimmten Hauptnutzer, welchen wir dann mit den vollen Admin-Rechten für Sie anlegen. Durch diesen Hauptnutzer haben Sie dann die Möglichkeit alle weiteren Nutzer anzulegen.
 
-**2.)	Actindo legt alle Nutzer an:**
+**3.)	Actindo legt alle Nutzer an:**
 Dies ist eine Option innerhalb der Hypercare (Kapitel 2.2.3), in welchem wir alle Ihre Nutzer für Sie anlegen. Sie müssen uns dafür lediglich die gewünschten Namen der Benutzer zusenden.
 
 ### 2.2	Actindos Angebote
@@ -253,7 +253,7 @@ SFTP Server einrichten (Kapitel 5.1)
 
 ![ID Einrichten](/assets/ID-Einrichten.png)
 
-****Einrichtung des automatisierten Abrufs von Tracking Daten:**
+**Einrichtung des automatisierten Abrufs von Tracking Daten:**
 *Vorgehensweise:*
 1 Actindo Core1: Im Hauptmenü (links) auf Einstellungen klicken.
 2 Dann RS Grundeinstellungen auswählen.
@@ -345,7 +345,7 @@ Die Funktionen bleiben unverändert.
 
 **Bisher:**
 
- ![Früher-ID](/assets/Früher-ID.png)
+ ![Früher-ID](/assets/Frueher-ID.png)
 
 **Jetzt:**
 
