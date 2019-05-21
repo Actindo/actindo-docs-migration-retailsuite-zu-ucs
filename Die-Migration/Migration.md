@@ -18,6 +18,6 @@ Ihr Tagesgeschäft werden Sie am Tag der Ausführung in der Regel ab 16:00 Uhr o
 Sollten Beeinträchtigungen auftreten, werden Sie umgehend informiert.
 
 ### 4.3	Daten Übertragen
-***(Wird von Actindo durchgeführt)***
+***(Wird von Actindo ausgeführt)***
 
 Auf dem Weg zur UCS spielt die Migration des Altdatenbestandes aus Ihrem RS-Account eine entscheidende Rolle. Da es sich bei der UCS als auch der RS um Actindo Systeme handelt, bleibt Ihnen die Dokumentation Ihres aktuellen Datenbestandes oder die Entscheidung, welche Datenübernommen werden und welche nicht, erspart. Alle Ihre Daten werden von uns automatisch bei der Migration übernommen.
